@@ -1,5 +1,5 @@
 {
-  "Version_update": "1.1",
+  "Version_update": "1.2",
   "Link_zip": "https://github.com/NINEVPN/enjoy/raw/main/enjoy.zip",
   "Password": "140690",
   "Message": "ENJOY VPN
